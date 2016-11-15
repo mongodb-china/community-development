@@ -1,2 +1,3 @@
-# community
-Community development 
+# MongoDB 中文社区管理平台
+
+中文社区相关的内容，通知，任务，人员等
